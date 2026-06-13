@@ -1,7 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 4й уровень
-![21](https://github.com/user-attachments/assets/6f37cb3a-9f32-4518-936a-3ed6f79573aa)
+![2](https://github.com/user-attachments/assets/5807de26-a8fb-407d-ab05-ea93035bd0bc)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/I22BfF4EnQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -9,13 +9,13 @@
 
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7 =200x200)
-stolbitsa.com/fistachka/subdominantc<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/c06ce5b3-288b-49ec-920c-0c06f96b4499 =200x200)
+stolbitsa.com/fistachka/flowers<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 4й 
-![21](https://github.com/user-attachments/assets/6f37cb3a-9f32-4518-936a-3ed6f79573aa)
+![2](https://github.com/user-attachments/assets/5807de26-a8fb-407d-ab05-ea93035bd0bc)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/WNcJGlaZnWA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -23,12 +23,6 @@ stolbitsa.com/fistachka/subdominantc<br><br>
 
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7 =200x200)
-stolbitsa.com/fistachka/subdominantc<br><br>
-
-
-
-![2](https://github.com/user-attachments/assets/5807de26-a8fb-407d-ab05-ea93035bd0bc)
-![1](https://github.com/user-attachments/assets/908b9c04-56a7-4c56-80b7-f7930170871b)
-
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/c06ce5b3-288b-49ec-920c-0c06f96b4499 =200x200)
+stolbitsa.com/fistachka/flowers<br><br>
 
