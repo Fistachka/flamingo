@@ -26,3 +26,9 @@ Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/477fc3f6-8556-41e9-9c2f-e6c681423bd7 =200x200)
 stolbitsa.com/fistachka/subdominantc<br><br>
 
+
+
+![2](https://github.com/user-attachments/assets/5807de26-a8fb-407d-ab05-ea93035bd0bc)
+![1](https://github.com/user-attachments/assets/908b9c04-56a7-4c56-80b7-f7930170871b)
+
+
