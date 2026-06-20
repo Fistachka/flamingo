@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>flamingo</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="kaleidoscope"/>
   <readme>
-    <ru>25c3b1ff831eb3c94d1affa022474fdf08a8d336b0f91dd40853f80804a768c3</ru>
-    <en>4fb534ab085011eaf566fb812e9ab792d69c79fb21f575e685220587edc1fe30</en>
+    <ru>3551fefa0e7031c324c8963d78a6a2844690d40b9f648fc449ace143cb0da1f7</ru>
+    <en>10ec502b2e6cee782d7053088beb4bd63629624ee2095f114fdc860ee0e8dbfd</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
